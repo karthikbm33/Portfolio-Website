@@ -14,7 +14,7 @@ If you'd like to **contribute** and make this much better for other users, have 
 ✔️ Open Source Projects Connected with GitHub\
 ✔️ Big Projects\
 ✔️ Achievements And Certifications 🏆\
-✔️ Contact me\
+✔️ Contact me
 
 
 
