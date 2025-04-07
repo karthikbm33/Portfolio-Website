@@ -2,7 +2,7 @@
 A personal portfolio website using html css &amp; js
 
 
-If you'd like to **contribute** and make this much better for other users, have a look at [Issues](https://github.com/saadpasta/developerFolio/issues).
+If you'd like to **contribute** and make this much better for other users, have a look at [Issues](https://github.com/karthikbm33/Portfolio-Website/issues/1#issue-2975549049).
 
 
 
