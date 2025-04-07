@@ -17,3 +17,8 @@ If you'd like to **contribute** and make this much better for other users, have 
 ✔️ Contact me\
 
 
+
+
+## Tools Used 🛠️
+* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+
