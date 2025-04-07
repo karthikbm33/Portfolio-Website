@@ -1,6 +1,11 @@
+<div align="center">
+  <img alt="Demo" src="portfolio" />
+</div>
+
 # Portfolio-Website
 A personal portfolio website build by karthik bm
 
+<a href="https://karthikbm.infy.uk/" target="_blank">**Visit Now** 🚀</a>
 
 If you'd like to **contribute** and make this much better for other users, have a look at [Issues](https://github.com/karthikbm33/Portfolio-Website/issues/1#issue-2975549049).
 
