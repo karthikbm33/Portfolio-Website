@@ -2,6 +2,8 @@
 A personal portfolio website using html css &amp; js
 
 
+If you'd like to **contribute** and make this much better for other users, have a look at [Issues](https://github.com/saadpasta/developerFolio/issues).
+
 
 
 ## Portfolio Sections
@@ -13,4 +15,5 @@ A personal portfolio website using html css &amp; js
 ✔️ Big Projects\
 ✔️ Achievements And Certifications 🏆\
 ✔️ Contact me\
+
 
