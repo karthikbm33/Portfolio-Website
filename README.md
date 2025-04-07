@@ -10,8 +10,6 @@
 
 If you'd like to **contribute** and make this much better for other users, have a look at [Issues](https://github.com/karthikbm33/Portfolio-Website/issues/1#issue-2975549049).
 
-
-
 ## Portfolio Sections
 😃 Summary and About me\
 👓 Skills\
