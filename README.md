@@ -7,6 +7,7 @@ A personal portfolio website using html css &amp; js
 
 
 Portfolio Sections
+
 ✔️ Summary and About me
 ✔️ Skills
 ✔️ Education
