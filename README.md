@@ -69,6 +69,8 @@ If you'd like to **contribute** and make this much better for other users, have 
 
 ###
 
-<img align="right" height="150" src="https://th.bing.com/th/id/OIP.fPRxTx_EaqhZxDeTt0NnagHaE8?rs=1&pid=ImgDetMain"  />
+<img align="top" height="150" src="https://i.ibb.co/G4bMFZ0t/image.png"  />
 
 ###
+
+<h3>https://karthikbm.infy.uk/</h3>
