@@ -1,5 +1,4 @@
-<h1 align="center">Portfolio Website ![hmm](https://github.com/user-attachments/assets/2e902e1e-8832-4bfd-9996-6710006dfdce)
- </h1>
+<h1 align="center">Portfolio Website</h1>
 
 <div align="center">
   <img alt="Demo" src="assets/images/portfolio.png" />
