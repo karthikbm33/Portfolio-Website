@@ -4,8 +4,7 @@
   <img alt="Demo" src="assets/images/portfolio.png" />
 </div>
 
-<h3 align="center">A personal portfolio website build by karthik bm ![hmm](https://github.com/user-attachments/assets/1085dbee-9156-495d-82e7-a8be3ded1a5b)
-</h3>
+<h3 align="center">A personal portfolio website build by karthik bm [hmm](https://github.com/user-attachments/assets/1085dbee-9156-495d-82e7-a8be3ded1a5b)</h3>
 
 <a href="https://karthikbm.infy.uk/" target="_blank">**Visit Now** 🚀</a>
 
