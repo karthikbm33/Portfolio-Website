@@ -40,7 +40,7 @@ If you'd like to **contribute** and make this much better for other users, have 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 
 
-<h2 align="left">Stay connected ✅</h2>
+<h2 align="left">Stay connected <img src="https://github.com/karthikbm33/Projects/blob/main/C%2B%2B/hmm.gif" width="42"> </h2>
 
 ###
 
