@@ -81,7 +81,7 @@ Contributions are welcome! If you'd like to improve this portfolio:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikshet21@yahoo.com)
 
 </div>
-
+--
 ⭐ **Star this repo if you like it!**
 
 *Made with ❤️ by **[Karthik BM](https://karthikbm.infy.uk/)***
