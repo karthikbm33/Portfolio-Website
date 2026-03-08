@@ -85,7 +85,8 @@ Contributions are welcome! If you'd like to improve this portfolio:
 ---
 
 <div align="center">
-  
+  <img src="https://raw.githubusercontent.com/karthikbm33/Portfolio-Website/main/assets/images/portfolio.png" width="85%" alt="Portfolio Preview" />
+    <img src="assets/images/portfolio.png" width="85%" alt="Portfolio Preview" />https://raw.githubusercontent.com/karthikbm33/Portfolio-Website/master/assets/images/portfolio.png
 ⭐ **Star this repo if you like it!**
 
 *Made with ❤️ by **[Karthik BM](https://karthikbm.infy.uk/)***
