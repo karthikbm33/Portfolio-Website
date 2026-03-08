@@ -85,7 +85,7 @@ Contributions are welcome! If you'd like to improve this portfolio:
 ---
 
 <div align="center">
-
+  
 ⭐ **Star this repo if you like it!**
 
 *Made with ❤️ by **[Karthik BM](https://karthikbm.infy.uk/)***
