@@ -86,8 +86,10 @@ Contributions are welcome! If you'd like to improve this portfolio:
 
 <div align="center">
 
-<img align="top" height="150" src="https://i.ibb.co/G4bMFZ0t/image.png"/>
-
+<div align="center">
+<img height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+</div>
+</br>
 ⭐ **Star this repo if you like it!**
 
 *Made with ❤️ by **[Karthik BM](https://karthikbm.infy.uk/)***
